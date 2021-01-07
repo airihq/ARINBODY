@@ -28,10 +28,6 @@
 대사 생성기를 통해 생성한 wav, marks 파일과 스크립트 편집툴로 생성한 actionscript를 원하는 장소에 저장 후
 config 파일에 경로를 지정해야 한다.
 
-### faceExpressionList.json
-
-캐릭터가 지을 수 있는 표정 리스트들의 블렌드 쉐잎 정보가 저장 되어있는 파일
-
 ### MotionDB.json
 
 캐릭터의 애니메이션 목록 정보가 저장 되어있는 파일
