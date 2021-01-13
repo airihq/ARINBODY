@@ -16,7 +16,7 @@
 	"Plugins": [
 		{
 			"Name": "SocketIOClient",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/slug/socket-io-client"
 		},
 		{
