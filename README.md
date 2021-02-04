@@ -45,7 +45,7 @@ C : Script editor와 통신하기 위한 socket 통신 연결
   "path_speech_wav": "E:/New/wav",  - 대사 음성 파일 저장 위치   
   "path_speech_marks": "E:/New/marks", - 대사 입모양 정보 파일 저장 위치   
   "path_actionscript": "E:/actionscripts", - actionscript 저장 위치   
-  "path_soundeffect": "E:/soundeffect" - 음향 효과 파일 저장 위치
+  "path_soundeffect": "E:/soundeffect" - 음향 효과 파일 저장 위치   
  }
 
 
