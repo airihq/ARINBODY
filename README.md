@@ -3,6 +3,15 @@
  
  캐릭터 만들기 서비스의 클라이언트 프로젝트입니다.
  
+# 구성 요소
+ARINBODY
+Script editor
+Node.js server
+Scenario editor
+Speech editor 대사 편집기?
+Mocap DB (sqlite)
+
+ 
 # 실행 가이드
 
 ## 필수 설치 플러그인 목록
@@ -42,7 +51,12 @@ config 파일에 경로를 지정해야 한다.
 
 
 
-
 ## 시나리오 파일 category.json
 
 시나리오 편집 툴을 사용하여 생성한 파일 category.json을 액션스크립트가 저장되어있는 경로에 위치시켜야 함
+
+## 단축키
+
+Q : 프로그램 종료
+D : 화면에 표시되는 로그 메시지 표시/미표시 토글
+C : Script editor와 통신하기 위한 socket 통신 연결
