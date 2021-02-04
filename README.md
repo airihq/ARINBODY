@@ -41,7 +41,7 @@ C : Script editor와 통신하기 위한 socket 통신 연결
 - config (.json) : 대사 생성기를 통해 생성한 wav, marks 파일과 스크립트 편집툴로 생성한 actionscript를 원하는 장소에 저장 후 config 파일에 경로를 지정해야 한다.
 
 
- {
+ {   
   "path_speech_wav": "E:/New/wav",  - 대사 음성 파일 저장 위치   
   "path_speech_marks": "E:/New/marks", - 대사 입모양 정보 파일 저장 위치   
   "path_actionscript": "E:/actionscripts", - actionscript 저장 위치   
