@@ -26,9 +26,9 @@ Mocap DB (sqlite)
 
 ## 단축키
 
-Q : 프로그램 종료
-D : 화면에 표시되는 로그 메시지 표시/미표시 토글
-C : Script editor와 통신하기 위한 socket 통신 연결
+Q : 프로그램 종료   
+D : 화면에 표시되는 로그 메시지 표시/미표시 토글   
+C : Script editor와 통신하기 위한 socket 통신 연결   
 
 ## 필요 준비 파일 종류
 
@@ -39,9 +39,11 @@ C : Script editor와 통신하기 위한 socket 통신 연결
 - 액션 스크립트 (.json) : Script editor를 통해 생성된 대사와 애니메이션들의 타이밍 정보 파일
 - 시나리오 정보 (.json) : category.json 파일로 Scienario editor를 통해 생성된 사용할 시나리오, 액션 스크립트 들과 순서, 재생 모드 등의 정보 파일
 - config (.json) : 대사 생성기를 통해 생성한 wav, marks 파일과 스크립트 편집툴로 생성한 actionscript를 원하는 장소에 저장 후 config 파일에 경로를 지정해야 한다.
+	'''
 	{
 		"path_speech_wav": "E:/New/wav",  - 대사 음성 파일 저장 위치
 		"path_speech_marks": "E:/New/marks", - 대사 입모양 정보 파일 저장 위치
 		"path_actionscript": "E:/actionscripts", - actionscript 저장 위치
 	}
+	'''
 - usedAnimation (.json) : 스크립트 편집툴로 actionscript를 생성할때 같이 생성되는 파일로 해당 시나리오에서 사용한 애니메이션 목록 정보가 저장되어있는 파일
