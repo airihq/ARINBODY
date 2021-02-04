@@ -4,12 +4,12 @@
  캐릭터 만들기 서비스의 클라이언트 프로젝트입니다.
  
 # 구성 요소
-ARINBODY
-Script editor
-Node.js server
-Scenario editor
-Speech editor 대사 편집기
-Mocap DB (sqlite)
+ARINBODY   
+Script editor   
+Node.js server   
+Scenario editor   
+Speech editor 대사 편집기   
+Mocap DB (sqlite)   
 
  
 # 실행 가이드
