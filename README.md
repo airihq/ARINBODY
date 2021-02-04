@@ -45,10 +45,29 @@ C : Script editor와 통신하기 위한 socket 통신 연결
   "path_speech_wav": "E:/New/wav",  - 대사 음성 파일 저장 위치   
   "path_speech_marks": "E:/New/marks", - 대사 입모양 정보 파일 저장 위치   
   "path_actionscript": "E:/actionscripts", - actionscript 저장 위치   
+  "path_soundeffect": "E:/soundeffect" - 음향 효과 파일 저장 위치
  }
 
 
 - usedAnimation (.json) : 스크립트 편집툴로 actionscript를 생성할때 같이 생성되는 파일로 해당 시나리오에서 사용한 애니메이션 목록 정보가 저장되어있는 파일
 
 
-   
+## 파일 위치
+
+### Data 폴더
+
+- config.json
+- sound.json
+- MotionDB.json
+- UsedAnimaiton.json
+
+### config 파일 내 지정 경로
+
+- actionscripts
+- wav
+- marks
+- soundeffect
+
+### actionscript 포함 폴더
+
+- category.json
