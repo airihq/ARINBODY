@@ -3,7 +3,5 @@
 	"path_speech_marks": "E:/New/marks",
 	"path_actionscript": "E:/actionscripts",
 	"path_video": "D:/AIRI2019/ARINBODY/test/data",
-	"path_soundeffect": "D:/AIRI2019/ARINBODY/data/soundeffect",
-	"socketio_server_address": "http://localhost:3000",
-	"socketio_server_namespace": "/"
+	"path_soundeffect": "D:/AIRI2019/ARINBODY/data/soundeffect"
 }
