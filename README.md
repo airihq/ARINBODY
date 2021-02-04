@@ -9,7 +9,7 @@ Script editor
 Node.js server   
 Scenario editor   
 Speech editor 대사 편집기   
-Mocap DB (sqlite)   
+Motion DB (sqlite)   
 
  
 # 실행 가이드
